@@ -11,6 +11,6 @@ Para gerar um novo conjunto de dados, é só chamar a função SimulateData(n, s
 Os arquivos deste repositórios são os seguintes:
 - DataSimulation.R é o código que contém a função que simula dos dados;
 - AnaliseDescritiva.Rmd é o arquivo em Rmarkdown em que foi realizada a análise gráfica dos dados, enquanto AnaliseDescritiva.pdf é o pdf gerado a partir do arquivo Rmarkdown;
-data_clean.csv são os dados já tratados - sem NA's e duplicatas;
-consultas_sql.sql contém as consultas realizadas em SQL;
-reçatorio_insights são os insights coletados a partir da análise.
+- data_clean.csv são os dados já tratados - sem NA's e duplicatas;
+- consultas_sql.sql contém as consultas realizadas em SQL;
+- reçatorio_insights são os insights coletados a partir da análise.
