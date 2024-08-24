@@ -9,7 +9,7 @@ Foram considerados 10 produtos dividos em 3 categorias da seguinte forma:
 Para gerar um novo conjunto de dados, é só chamar a função SimulateData(n, seed), com o tamanho (n) e a seed desejada.
 
 Os arquivos deste repositórios são os seguintes:
-- DataSimulation.R é o código que contém a função que simula os dados;
+- DataSimulation.R é o código que contém a função que simula os dados, bem como o cálculo do total de vendas e a identificação do produto que vendeu mais;
 - data_clean.csv são os dados já tratados - sem NA's e duplicatas;
 - AnaliseDescritiva.Rmd é o arquivo em Rmarkdown em que foi realizada a análise gráfica, enquanto AnaliseDescritiva.pdf é o pdf gerado a partir do arquivo Rmarkdown;
 - consultas_sql.sql contém as consultas realizadas em SQL;
