@@ -15,4 +15,4 @@ Os arquivos deste repositórios são os seguintes:
 - consultas_sql.sql contém as consultas realizadas em SQL;
 - relatorio_insights são os insights coletados a partir da análise.
 
-  OBS: para rodar as consultas do arquivo consultas_sql.sql, é necessário baixar o arquivo para uma pasta local e atualizar o caminho no código.
+OBS: para rodar as consultas do arquivo consultas_sql.sql, é necessário baixar o arquivo para uma pasta local e atualizar o caminho no código.
