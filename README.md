@@ -6,7 +6,7 @@ Foram considerados 10 produtos dividos em 3 categorias da seguinte forma:
 - Informática: notebook (ID = 5, preço = 3000), impressora (ID = 6, preço = 1000), monitor (ID =  7, preço = 800);
 - Eletrodoméstico: TV (ID = 8, preço = 2500), máquina de lavar (ID = 9, preço = 2250) e geladeira (ID = 10, preço = 3000).
   
-Para gerar um novo conjunto de dados, é só chamar a função SimulateData(n, seed), com o tamanho (n) e a seed desejada.
+Para gerar um novo conjunto de dados, é só chamar a função SimulateData(n, seed), com o tamanho (n) e a seed desejada. Para este teste, foi gerado um conjunto de dados com n=100 e uma seed=123.
 
 Os arquivos deste repositórios são os seguintes:
 - DataSimulation.R é o código que contém a função que simula os dados, bem como o cálculo do total de vendas e a identificação do produto que vendeu mais;
