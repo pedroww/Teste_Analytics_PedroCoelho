@@ -14,3 +14,5 @@ Os arquivos deste repositórios são os seguintes:
 - AnaliseDescritiva.Rmd é o arquivo em Rmarkdown em que foi realizada a análise gráfica, enquanto AnaliseDescritiva.pdf é o pdf gerado a partir do arquivo Rmarkdown;
 - consultas_sql.sql contém as consultas realizadas em SQL;
 - relatorio_insights são os insights coletados a partir da análise.
+
+  OBS: para rodar as consultas do arquivo consultas_sql.sql, é necessário baixar o arquivo para uma pasta local e atualizar o caminho no código.
